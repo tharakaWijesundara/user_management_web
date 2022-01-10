@@ -1,0 +1,80 @@
+.App {
+  /* padding-right: 15px; */
+  display: flex;
+  flex-direction:column;
+  align-items:stretch
+}
+
+.App__Form {
+  padding-top: 50px;
+  background-color: #282c34;
+    display: flex;
+  flex-direction: column;
+  align-items:center
+}
+.popUp {
+  height: 500px;
+}
+
+.FormTitle__Link {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.7em;
+  margin: 0 10px;
+  padding-bottom: 5px;
+}
+.FormTitle__Link:hover {
+  text-decoration: none;
+}
+
+.FormTitle__Link--Active {
+  color: white;
+  border-bottom: 2px solid black;
+}
+
+.errorMessage {
+  color: red;
+  font-size: 0.75em;
+  display: relative;
+}
+.logginDetails {
+  padding-left: 80%;
+  background-color: teal;
+  padding-bottom: 10px;
+}
+.loggedName {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.loggeEmail {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.loggeIdNum {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.logOutBtnDiv {
+  text-align: center;
+}
+.styleForm {
+  margin-left: 30px;
+  margin-bottom: 30px;
+  padding-left: 10%;
+  padding-top: 35px;
+  padding-bottom: 5%;
+  width: 95%;
+  background-color: rgb(201, 201, 201);
+  padding-right: 10%;
+  border-radius: 5px;
+}
+.styleSubmitBtnRow {
+  justify-content: center;
+}

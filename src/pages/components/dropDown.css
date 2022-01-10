@@ -1,0 +1,13 @@
+.styleRow{
+    justify-content:space-between;
+}
+.styleText{
+    font-size: 17px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.styleCheckIcon{
+    color: green;
+    height: 20px;
+    width: 20px;
+}

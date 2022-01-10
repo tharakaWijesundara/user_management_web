@@ -1,0 +1,74 @@
+.tab1Table {
+  padding-right: 100px;
+}
+.delIcon {
+  height: 25px;
+  width: 25px;
+  color: white;
+}
+.infoIcon {
+  height: 25px;
+  width: 25px;
+  color: white;
+}
+.iconBar {
+  padding-top: 10px;
+  margin-right: 10px;
+  /* background-color: antiquewhite; */
+}
+.changeStatusBar {
+  padding-top: 15px;
+  padding-left: 0px;
+}
+.delButton {
+  padding-top: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  background-color: red;
+  border-color: transparent;
+}
+.styleButton {
+  padding-top: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  background-color: rgb(93, 109, 255);
+  border-color: transparent;
+}
+.editButton {
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    background-color: blue;
+    border-color: transparent;
+  }
+.changePosition {
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 4px;
+}
+.infoButton {
+  padding-top: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  background-color: blue;
+  border-color: blue;
+}
+.changeStatusBaricon {
+  padding-top: 8px;
+  padding-left: 0px;
+}
+.upArrow {
+  height: 20px;
+  width: 20px;
+  color: green;
+}
+.downArrow {
+  height: 20px;
+  width: 20px;
+  color: red;
+}
